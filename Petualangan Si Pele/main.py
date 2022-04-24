@@ -1,4 +1,4 @@
-import pygame, os, pygame.locals
+import  os, pygame, pygame.locals
 
 UKURAN_LAYAR = (850, 500)
 
